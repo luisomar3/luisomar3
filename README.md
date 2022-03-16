@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
+<h1 align="center">Hi 👋, I'm Luis . :couple_with_heart: Hermarys Husband, :boy:Omar's and Aurora's :baby: father. </h1>
 <h3 align="center">A passionate and curious developer.</h3>
 
 - 🔭 I’m currently working on [Ingenieria Opendrive](https://www.opendrive.cl/)
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **luisomar242@gmail.com**
 
-- ⚡ Fun fact **I can hear someone without interrupting it.**
+- ⚡ Fun fact **I can hear someone without interrupting it. Sometimes I feel is like my superpower**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
