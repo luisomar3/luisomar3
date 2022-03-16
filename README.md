@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luis</h1>
-<h3 align="center">A passionate Python developer.</h3>
+<h3 align="center">A passionate and curious developer.</h3>
 
 - 🔭 I’m currently working on [Ingenieria Opendrive](https://www.opendrive.cl/)
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m always learning right now i'm focused on **Web3, Blockchain, and a lot of cools stuff**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [Here](Here)
 
-- 💬 Ask me about **Odoo, Python, stars, black holes,cosmic rays**
+- 💬 Ask me about **Odoo, Python, software, stars :star:, black holes, cosmic rays (I'm not an expert on any of them, I just like to chat about them)**
 
 - 📫 How to reach me **luisomar242@gmail.com**
 
