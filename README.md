@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis .</h1>
-<h2 align="center">:couple_with_heart: Hermarys's Husband, :boy:Omar's and Aurora's :baby: father. </h2>
+<h2 align="center">:couple_with_heart: Hermarys's husband, :boy:Omar's and Aurora's :baby: father. </h2>
 <h3 align="center">A passionate and curious developer.</h3>
 
 - 🔭 I’m currently working on [Ingenieria Opendrive](https://www.opendrive.cl/)
