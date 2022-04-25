@@ -26,7 +26,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
         <a href="https://www.odoo.com" target="_blank" rel="noreferrer"> <img
-            src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="Odoo" width="40" height="40" /> </a>
+            src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png" alt="Odoo" width="70" height="40" /> </a>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
             alt="django" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
