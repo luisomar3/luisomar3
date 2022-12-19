@@ -2,7 +2,7 @@
 <h2 align="center">:couple_with_heart: Hermarys's husband, :boy:Omar's and Aurora's :baby: father. </h2>
 <h3 align="center">A passionate and curious developer.</h3>
 
-- 🔭 I’m currently working on [Ingenieria Opendrive](https://www.opendrive.cl/) as a lead developer. 
+- 🔭 I’m currently working on [UpWork](https://www.upwork.com/freelancers/~012765bc2efe40cdad?viewMode=1) as a freelance developer. 
 
 - 🌱 I’m always learning right now i'm focused on **Web3, Blockchain, and a lot of cools stuff**
 
