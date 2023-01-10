@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently working on [UpWork](https://www.upwork.com/freelancers/~012765bc2efe40cdad?viewMode=1) as a freelance developer. 
 
-- 🌱 I’m always learning right now i'm focused on **Web3, Blockchain, and a lot of cools stuff**
+- 🌱 I’m always learning right now i'm focused on **Backend, Blockchain, and a lot of cools stuff**
 
 - 👯 I’m looking to collaborate on **Blockchain Development**
-
-- 👨‍💻 All of my projects are available at [Here](Here)
 
 - 💬 Ask me about **Odoo, Python, software, stars :star:, black holes, cosmic rays (I'm not an expert on any of them, I just like to chat about them)**
 
